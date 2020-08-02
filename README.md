@@ -43,6 +43,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [<img align="left" alt="Dotnet" width="32px"
 src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />][dotnet]
 
+[<img align="left" alt="Terminal" width="32px"
+src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />][terminal]
+
 [<img align="left" alt="Git" width="32px"
 src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />][git]
 
@@ -72,6 +75,7 @@ src="https://icon2.cleanpng.com/20180606/fw/kisspng-digital-audio-workstation-re
 [csharp]: https://github.com/topics/csharp
 [dotnet]: https://github.com/topics/dotnet
 
+[terminal]: https://github.com/topics/terminal
 [git]: https://git-scm.com/
 [gitlfs]: https://git-lfs.github.com/
 
