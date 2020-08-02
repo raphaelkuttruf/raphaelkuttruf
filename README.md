@@ -1,9 +1,14 @@
 ### Hi there 👋
 
+My Soundcloud:
+<https://soundcloud.com/raphaelkuttruf>
+
 <!--
 **raphaelkuttruf/raphaelkuttruf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+<iframe allowtransparency="true" scrolling="no" frameborder="no" src="https://w.soundcloud.com/icon/?url=http%3A%2F%2Fsoundcloud.com%2Fraphaelkuttruf&color=white_orange&size=16" style="width: 16px; height: 16px;"></iframe>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
