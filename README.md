@@ -65,7 +65,7 @@ src="https://icon2.cleanpng.com/20180606/fw/kisspng-digital-audio-workstation-re
 [github]: https://github.com/raphaelkuttruf
 [facebook]: https://facebook.com/raphaelkuttruf
 [instagram]: https://www.instagram.com/raphaelkuttruf
-[facebook]: https://twitter.com/raphaelkuttruf
+[twitter]: https://twitter.com/raphaelkuttruf
 [soundcloud]: https://soundcloud.com/raphaelkuttruf
 
 [arduino]: https://github.com/topics/arduino
