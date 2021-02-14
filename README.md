@@ -3,11 +3,14 @@
 
 ## Social Media
 
-[<img align="left" alt="Soundcloud" width="32px"
+[<img align="left" alt="Facebook" width="32px"
 src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png" />][facebook]
 
-[<img align="left" alt="Soundcloud" width="32px"
+[<img align="left" alt="Instagram" width="32px"
 src="https://instagram-brand.com/wp-content/uploads/2016/11/Instagram_AppIcon_Aug2017.png" />][instagram]
+
+[<img align="left" alt="Twitter" width="32px"
+src="https://de.wikipedia.org/wiki/Twitter#/media/Datei:Twitter_bird_logo_2012.svg" />][twitter]
 
 [<img align="left" alt="Soundcloud" width="32px"
 src="https://w.soundcloud.com/icon/assets/images/orange_transparent_32-94fc761.png" />][soundcloud]
@@ -60,9 +63,10 @@ src="https://icon2.cleanpng.com/20180606/fw/kisspng-digital-audio-workstation-re
 
 <!-- Link Shortcuts -->
 [github]: https://github.com/raphaelkuttruf
-[soundcloud]: https://soundcloud.com/raphaelkuttruf
 [facebook]: https://facebook.com/raphaelkuttruf
-[instagram]: https://www.instagram.com/rk1p3t/
+[instagram]: https://www.instagram.com/raphaelkuttruf
+[facebook]: https://twitter.com/raphaelkuttruf
+[soundcloud]: https://soundcloud.com/raphaelkuttruf
 
 [arduino]: https://github.com/topics/arduino
 [raspberrypi]: https://github.com/topics/raspberry-pi
