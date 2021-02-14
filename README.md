@@ -10,7 +10,7 @@ src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_51
 src="https://instagram-brand.com/wp-content/uploads/2016/11/Instagram_AppIcon_Aug2017.png" />][instagram]
 
 [<img align="left" alt="Twitter" width="32px"
-src="https://de.wikipedia.org/wiki/Twitter#/media/Datei:Twitter_bird_logo_2012.svg" />][twitter]
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />][twitter]
 
 [<img align="left" alt="Soundcloud" width="32px"
 src="https://w.soundcloud.com/icon/assets/images/orange_transparent_32-94fc761.png" />][soundcloud]
