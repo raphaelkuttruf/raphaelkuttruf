@@ -1,22 +1,5 @@
 # Hellow World 👋😁
 
-
-## Social Media
-
-[<img align="left" alt="Facebook" width="32px"
-src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png" />][facebook]
-
-[<img align="left" alt="Instagram" width="32px"
-src="https://instagram-brand.com/wp-content/uploads/2016/11/Instagram_AppIcon_Aug2017.png" />][instagram]
-
-[<img align="left" alt="Twitter" width="32px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />][twitter]
-
-[<img align="left" alt="Soundcloud" width="32px"
-src="https://w.soundcloud.com/icon/assets/images/orange_transparent_32-94fc761.png" />][soundcloud]
-
-<br />
-
 ## Skillset
 
 [<img align="left" alt="Latex" width="32px"
@@ -55,11 +38,8 @@ src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />][git]
 [<img align="left" alt="Github" width="32px"
 src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
-[<img align="left" alt="Github" width="32px"
-src="https://icon2.cleanpng.com/20180606/fw/kisspng-digital-audio-workstation-reaper-cockos-multitrack-reaper-5b189f58278b13.792985671528340312162.jpg" />][reaper]
-
-<br />
-
+[<img align="left" alt="Reaper DAW" width="32px"
+src="https://www.reaper.fm/v5img/logo.jpg" />][reaper]
 
 <!-- Link Shortcuts -->
 [github]: https://github.com/raphaelkuttruf
@@ -85,9 +65,7 @@ src="https://icon2.cleanpng.com/20180606/fw/kisspng-digital-audio-workstation-re
 
 [reaper]: https://www.reaper.fm/
 
-
 <!--
-
 
 **raphaelkuttruf/raphaelkuttruf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
